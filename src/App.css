@@ -1,6 +1,10 @@
+
+
 .App {
-  text-align: center;
+  text-align: left;
+  
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -24,9 +28,9 @@
   color: white;
 }
 
-.App-link {
+/* .App-link {
   color: #61dafb;
-}
+} */
 
 @keyframes App-logo-spin {
   from {
@@ -35,4 +39,55 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.button {
+  background-color: #008CBA; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.click {
+  width: 300px;
+  background: white;
+  font-size: 40px;
+  margin: 100px auto;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.custom-nav-link {
+  padding: 10px;
+  border: none;
+  font-weight: bold;
+  font-size: 14px;
+  text-decoration: none;
+  background: #15e5d2;
+  border-right: 1px solid grey;
+}
+
+.navigation-bar {
+  margin: 10px 0;
+}
+
+.btn-app {
+  padding: 10px;
+  font-weight: 600;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.noodles {
+  background-image: url('./images/Noodles.jpg');
+  height: 100px;
+  width: 100px;
+  background-size: contain;
 }

@@ -1,0 +1,38 @@
+
+  
+.table{
+    background-color:lavender;
+    /* display: flexbox; */
+    justify-content: center;
+    width: 25%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    height: 100px;
+  }
+
+body{
+      background-color: lavender;
+  }
+
+  h2{
+      color:crimson;
+  }
+
+  h1{
+      /* color: mediumorchid; */
+      color: deeppink;
+  }
+
+  
+.error-text {
+    color: red;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+ 
+.btn124{
+    height: 30px;  
+    width: 100px; 
+    border-radius: 10px; 
+   
+}

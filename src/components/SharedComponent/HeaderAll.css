@@ -1,0 +1,25 @@
+.header {
+  padding: 5px 0;
+  background: darkslateblue;
+  display: flex;
+  align-items: center;
+}
+
+img {
+  color: cyan;
+  font-size: xx-large;
+  font-family: -webkit-body;
+}
+
+.img-logo {
+  width: 10%;
+  height: 10%;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.header-text {
+  font-size: 45px;
+  color: #FFF;
+  font-weight: bold;
+}

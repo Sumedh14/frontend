@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+
+
+
+.details{
+    width: 500px;
+}
+
+/* div{
+    background-color: aqua;
+} */
+
+/* .table2{
+    border: 1px solid black;
+} */
+
+
+.tr{
+    font-family: 'Nova Mono', monospace;
+    border: 1px solid black;
+    height: 300px;
+    width: 350px;
+}
+
+.table33{
+    width: 60%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    background-color: #4fd2d6;
+}
+
+.td44{
+    padding-left: 15px;
+    padding-right: 15px; 
+   
+}
+
+.btn123{
+    font-family: 'fantasy';
+    height: 40px;  
+    width: 100px; 
+    border-radius: 10px;  
+    background-color: #ffce3a;
+  /* added button*/
+}
